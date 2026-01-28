@@ -35,7 +35,7 @@ The study analyzed sub-threshold leakage components ($I_{PU}$, $I_{PD}$, $I_{AX}
 The DRV was determined by monitoring the failure rate (HSNM < 60mV) during voltage scaling.
 * **Statistical Yield:** The design maintains 100% yield down to $0.5V$. 
 * **Critical Limit:** The first failures appear at $0.4V$, and the failure rate becomes unacceptable below $0.3V$.
-* **Conclusion:** Considering a 100mV safety margin, the **Minimum Safe Supply Voltage** for this cell is **0.5V**.
+* **Conclusion:** Considering a 60mV safety margin, the **Minimum Safe Supply Voltage** for this cell is **0.5V**.
 
 ---
 
